@@ -1,22 +1,21 @@
 # Ľøşț
 
-## Team Members:
-- Bereket Befekadu
-- Nahom Beletew
-- Nahom Tesfu
-- Yafet Misker
+### How would you pitch your game in one line?
+A person tries to find their way out of a maze by solving puzzles.
 
-## How would you pitch your game in one line?
-A kid gets lost while playing and he is trying to find his way back home.
+### What is the key mechanic(s) that make it fun?
+The key mechanics that make this game fun include solving puzzles, navigating through the maze, and finding patterns in the clues you discover.
 
-## What is the key mechanic(s) that make it fun?
-The key mechanics that make it fun are looking for clues, overcoming obstacles, and surviving alone. 
+### How does the game actually play? (Core Game Loop)
+Players try to find their way out of the maze by solving the puzzles, which provides information on which doors to open and how to open the doors.
 
-## How does the game actually play? (Core Game Loop)
-Players try to find the kid’s way back home, they will have to find food for the kid to eat, and will earn XP when they find clues and live longer.
+### How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?
+They will have to think of patterns which might help them navigate their way out of the maze. They will also solve puzzles, challenging ones, and all of this will keep the players engaged for more than 30 minutes.
 
-## How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?
-They will have to solve puzzles, look for keys, and survive. And this will keep players engaged.
+### Notes:
+- The game is designed to engage players by challenging their problem-solving skills and providing a sense of progression.
+- The difficulty of the puzzles and obstacles will increase as players advance, providing ongoing challenges and rewarding experiences.
+
 
 ## Links:
 https://github.com/ntd3 \
