@@ -4,7 +4,7 @@
 A person tries to find their way out of a maze by solving puzzles.
 
 ### What is the key mechanic(s) that make it fun?
-The key mechanics that make this game fun include solving puzzles, navigating through the maze, and finding patterns in the clues you discover.
+The key mechanic that make this game fun include solving puzzles, navigating through the maze, and finding patterns in the clues you discover.
 
 ### How does the game actually play? (Core Game Loop)
 Players try to find their way out of the maze by solving the puzzles, which provides information on which doors to open and how to open the doors.
